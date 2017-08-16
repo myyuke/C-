@@ -19,3 +19,4 @@ int DeleteValueList(Node *,Node *,int );//删除值为x的节点，若存在该节点则删除之
 int GetPosList(Node *,Node *,int );//按索引位置获取 
 int NumSum(Node *,Node *);//求链表所有元素相加的结果
 int MaxNum(Node *,Node *);//求链表中最大元素
+
