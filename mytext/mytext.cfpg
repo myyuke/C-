@@ -1,4 +1,6 @@
 <Projects version="2.0">
 	<Project active="1">mytext.cfp</Project>
-	<File active="1">main.c</File>
+	<File active="0">dlist.c</File>
+	<File active="0">main.c</File>
+	<File active="1">dlist.h</File>
 </Projects>
